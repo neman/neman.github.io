@@ -36,6 +36,7 @@ on_success:
   - xcopy ..\output . /E
   # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
   - git remote set-url origin https://github.com/neman/neman.github.io.git
+  - git remote -v
   - git add -A
   - git commit -a -m "Commit from AppVeyor"
   - git push
