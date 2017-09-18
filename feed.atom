@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="http://host.com/" />
+	<id>http://host.com/</id>
+	<title>My Blog</title>
+	<rights>2017</rights>
+	<updated>2017-05-21T23:35:07Z</updated>
+	<subtitle>Welcome!</subtitle>
+	<entry>
+		<link href="http://host.com/posts/first-post" />
+		<id>http://host.com/posts/first-post</id>
+		<title>First Post</title>
+		<updated>2016-01-01T00:00:00Z</updated>
+		<summary>Welcome!</summary>
+	</entry>
+</feed>

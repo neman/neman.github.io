@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>My Blog</title>
+		<link>http://host.com/</link>
+		<description>Welcome!</description>
+		<copyright>2017</copyright>
+		<pubDate>Sun, 21 May 2017 23:35:07 GMT</pubDate>
+		<lastBuildDate>Sun, 21 May 2017 23:35:07 GMT</lastBuildDate>
+		<item>
+			<title>First Post</title>
+			<link>http://host.com/posts/first-post</link>
+			<description>Welcome!</description>
+			<guid>http://host.com/posts/first-post</guid>
+			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
